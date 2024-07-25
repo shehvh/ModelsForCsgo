@@ -1,1 +1,0 @@
-models/player/custom_player/eminem/gta_sa/ballas1.mdl

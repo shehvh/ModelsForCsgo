@@ -1,0 +1,8 @@
+["swmotr5"] = "models/player/custom_player/eminem/gta_sa/swmotr5.mdl"
+["ballas1"] = "models/player/custom_player/eminem/gta_sa/ballas1.mdl"
+["bmybar"] = "models/player/custom_player/eminem/gta_sa/bmybar.mdl"
+["fam1"] = "models/player/custom_player/eminem/gta_sa/fam1.mdl"
+["somyst"] = "models/player/custom_player/eminem/gta_sa/somyst.mdl"
+["vwfypro"] = "models/player/custom_player/eminem/gta_sa/vwfypro.mdl"
+["wuzimu"] = "models/player/custom_player/eminem/gta_sa/wuzimu.mdl"
+["artic"] = "models/player/custom_player/eminem/css/t_arctic.mdl"
